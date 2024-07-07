@@ -445,7 +445,7 @@ document.addEventListener("DOMContentLoaded", function() {
     "To be clear: this site does not actually use ChatGPT or any other form of AI. It just returns some random Windows Blue Screen of Death bug check code. Nothing is done with your input either.",
     'If you want to know more, <a href="https://github.com/thedoggybrad/bluesodgpt/" target="_blank">check out the code on Github</a>.',
     'By the way, this is distributed using The Unlicensed, <a href="https://github.com/thedoggybrad/bluesodgpt/blob/master/license" target="_blank">which can be visited here</a>.',
-    'Enjoy using the "DogGPT!"'
+    'Enjoy using the "BlueSodGPT!"'
   ]; // Lines of the information chat
 
   infoBtn.addEventListener("click", handleInfoClick); // Handle clicks to the info link
