@@ -32,6 +32,28 @@
 <meta name="author" content="TheDoggyBrad Software Lab">
 <meta property="og:image" content="screenshot.png">
 <!-- End SEO tag -->
+
+
+ <script type="text/javascript">
+        // In Memory of a Feature added on December 24, 2024 (Christmas Eve) by TheDoggyBrad Software Labs as a surprise. Merry Christmas Everyone!
+
+        function getRandomTime() {
+            let minTime = 20000; 
+            let maxTime = 240000; 
+            return Math.floor(Math.random() * (maxTime - minTime + 1)) + minTime;
+        }
+        function randomRedirect() {
+            const destinationPath = "gameover.html";  // Replace with your destination path
+            const delayTime = getRandomTime();
+            setTimeout(function() {
+                window.location.href = destinationPath;
+            }, delayTime);
+        }
+        window.onload = randomRedirect;
+    </script>
+
+
+
 </head>
 
 <body>
