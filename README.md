@@ -1,6 +1,6 @@
 <img src="https://thedoggybrad.github.io/bluesodgpt/images/avatar.png" width="64" height="64">
 
-# DogGPT
+# BlueSodGPT
 All right! Windows' Blue Screen of Death has been ported to ChatGPT, so that you will not need to sacrifice your Windows machine just messing up with the Windows Registry, just kidding.
 
 ## Demo
