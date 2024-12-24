@@ -13,6 +13,9 @@ Enjoy the nightmare that Windows BSOD delivered to your life, now in a chat form
 ## What is this?
 The "BlueSodGPT"" is a clone of "DogGPT" that is a fork of the popular "CatGPT".
 
+## Game Over Screen
+To add more suspense to the users, a new Game Over screen was added where at random times the GUI will declare a no bootable device found error. That is randomly timed and try to even just interact with the chatbot before it shows up.
+
 <br>
 <br>
 Note: No Artificial Intelligence (AI) was really used. It just uses some sorts of randomizers running under JavaScript. 
