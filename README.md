@@ -1,7 +1,8 @@
 <img src="https://thedoggybrad.github.io/bluesodgpt/images/avatar.png" width="64" height="64">
 
 # BlueSodGPT
-All right! Windows' Blue Screen of Death has been ported to ChatGPT, so that you will not need to sacrifice your Windows machine just messing up with the Windows Registry, just kidding.
+All right! Windows' Blue Screen of Death has been ported to ChatGPT, so that you will not need to sacrifice your Windows machine just messing up with the Windows Registry, just kidding.<br>
+With now the game over screen added, it is now considered a game not just a parody of BSoD or of ChatGPT.
 
 ## Demo
 Try BlueSodGPT [thedoggybrad.github.io/bluesodgpt/](https://thedoggybrad.github.io/bluesodgpt/)
